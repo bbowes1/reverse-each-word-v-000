@@ -5,12 +5,12 @@ def reverse_each_word(sentence)
   binding.pry
 end.join(" ")
 
-words = sentence.split.collect do |x|
-  x.reverse
-end
-  words.join(" ")
+#words = sentence.split.collect do |x|
+ # x.reverse
+#end
+ # words.join(" ")
 
-end
+#end
 
 
  
